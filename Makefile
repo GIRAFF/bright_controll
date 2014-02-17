@@ -1,0 +1,9 @@
+CC=g++
+CXXFLAGS=-std=c++11
+OFLAGS=-o
+SOURCES=*.cpp
+EXECUTABLE=brt
+
+all: 
+	$(CC) $(CXXFLAGS) $(SOURCES) $(OFLAGS) $(EXECUTABLE)
+    
