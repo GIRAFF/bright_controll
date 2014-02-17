@@ -1,4 +1,6 @@
 bright_controll
 ===============
 
-Bright controller for linux. Made for Openbox keybinding.
+Bright controller for Linux. Made for Openbox keybinding.
+
+Usage: brt <up/down>
